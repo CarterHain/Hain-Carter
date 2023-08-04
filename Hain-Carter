@@ -5,7 +5,9 @@
 <title>This is my title</title>
 </head>
 
-<body>
+<body bgcolor="yellow">
+
+<img src="photo.jpg" border="2" align="right"
 <h1>Here is a headline</h1>
 
 <p>I learned a lot of really cool and interesting things during this CIS class. I have become much more comfortable using Microsoft office. As well as learning about what opportunities there are for people wanting to have a career in tech.</p> 
