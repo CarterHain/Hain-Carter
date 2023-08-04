@@ -15,11 +15,10 @@
 
 <h3>Favorite Web Sites</h3> 
 <ol>
-<li>cheese</li>
-<li>ESPN</li>
+<li><a href="http://www.cheese.com">cheese</a></li>
+<li><a href="http://www.ESPN.com">ESPN</a></li>
 </ol>
 
-<a href="http://www.cheese.com">cheese</a>
 
 </body>
 </html>
